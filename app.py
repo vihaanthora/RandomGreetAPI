@@ -1,6 +1,4 @@
-from base64 import encode
-from encodings import utf_8
-from flask import Flask, request, jsonify
+from flask import Flask, request
 import requests
 
 app = Flask(__name__)
