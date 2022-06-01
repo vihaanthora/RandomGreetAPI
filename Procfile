@@ -1,1 +1,1 @@
-web: python app.py -p 5000
+worker: python app.py
